@@ -26,3 +26,6 @@ I took a small break to focus on A-Level revision. I wouldn't want to rush throu
 
 **2025-05-28**  
 Exams are wrapping up. Getting back into the project. Re-reading some Python basics and reviewing what I did before. Nearly done with *Quantitative Finance For Dummies*. Planning to build something small next, maybe try to play around with linear regression.
+
+**2025-06-16** 
+After finishing the Kaggle courses on pandas and time series, I spent a few days learning and building a mini project using linear regression to forecast S&P 500 price movements. The out-of-sample backtest showed the model underperformed compared to a simple buy-and-hold strategy, generating about 24% return versus 75%. This result was a bit demotivating, making me realize I have a long way to go before building something truly usable. However, it gave me important insights and motivates me to explore more advanced models next. I will start playing around with Monte Carlo simulation next. (The project is available on my GitHub for reference.)
